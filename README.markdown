@@ -99,7 +99,7 @@ We should now have a new commit. To see all the commits so far, use
 The log should show all commits listed from most recent first to least
 recent. You would see various information like the name of the author,
 the date it was commited, a commit SHA number, and the message for the
-commit.
+commit. press q to quit
 
 You should also see your most recent commit, where you added the two new
 files in the previous section. However git log does not show the files
